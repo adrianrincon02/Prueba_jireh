@@ -1,0 +1,11 @@
+# Expense Tracker
+
+Proyecto para el seguimiento y gestión de gastos.
+
+## Estado
+- En desarrollo inicial / pruebas locales.
+
+## Estructura rápida
+- `backend/`: API y lógica del servidor.
+- `frontend/`: Interfaz de usuario.
+- `docs/`: Documentación del proyecto.
